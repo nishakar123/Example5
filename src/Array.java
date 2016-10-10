@@ -6,6 +6,10 @@ public class Array {
 		for (int i : arr) {
 			System.out.println(i);
 		}
+		System.out.println();
+		for (int i =arr.length; i >= 0; i--) {
+			System.out.println(i);
+		}
 
 	}
 
